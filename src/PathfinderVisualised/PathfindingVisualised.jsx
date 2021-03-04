@@ -12,7 +12,7 @@ export default class PathfindingVisualiser extends component {
     render() {
         return (
             <div>
-                Foo
+                Main Page view
                 <Node></Node>
             </div>
         );
